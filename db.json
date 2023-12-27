@@ -1,0 +1,67 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "user": "Selim",
+      "title": "React MVC Pattern (Mimari)",
+      "text": "MVC Mimari ile nasıl bileşenleri yönetirim??",
+      "date": "2023-09-11T19:13:21.364Z"
+    },
+    {
+      "id": 2,
+      "user": "Nisa Sultan",
+      "title": "Model View Controller",
+      "text": "Bu nedir???",
+      "date": "2023-09-11T19:13:21.364Z"
+    },
+    {
+      "id": "378a0574-a91e-417e-ae41-a301fe1234e0",
+      "date": "2023-09-11T19:13:21.364Z",
+      "title": "React.js",
+      "text": "Bunu nasıl çözeriz???",
+      "user": "Ahmet"
+    },
+    {
+      "id": "ff867aec-1452-4ec5-bb37-75ccd6234fe4",
+      "date": "2023-09-11T19:59:57.523Z",
+      "title": "MVVM Nedir?",
+      "text": "Nasıl oluyor\n",
+      "user": "Mehmet"
+    },
+    {
+      "id": "02db8f75-0321-4edb-af18-e5b0783acda6",
+      "date": "2023-09-11T20:00:15.908Z",
+      "title": "React ile proje ",
+      "text": "React ile proje  nasıl geliştirilir????",
+      "user": "Ali"
+    },
+    {
+      "id": "ef4cd2d5-89a1-425b-81c6-2e51e914061c",
+      "date": "2023-12-26T22:14:13.603Z",
+      "title": "Forum",
+      "text": "MVC yapısı nasıl kullanılır?",
+      "user": "User -2333"
+    },
+    {
+      "id": "11bd6d6d-f082-4caf-b367-fbcc3e273d05",
+      "date": "2023-12-26T22:21:03.320Z",
+      "title": "React Vite",
+      "text": "Vite entegrasyonu nasıl sağlanır?",
+      "user": "Tomris"
+    },
+    {
+      "id": "4e8655e2-08d5-4e61-a351-e60224f57781",
+      "date": "2023-12-26T23:57:44.442Z",
+      "title": "Mvc mimarisi nedir?",
+      "text": "Mvc mimarisi ne işe yarar?",
+      "user": "Emel "
+    },
+    {
+      "id": "6987edd0-a114-4c0c-b3fa-c55cded66334",
+      "date": "2023-12-27T00:01:09.389Z",
+      "title": "MVC",
+      "text": "MVC Nedir ve ne işe yarar?",
+      "user": "Nilüfer"
+    }
+  ]
+}
