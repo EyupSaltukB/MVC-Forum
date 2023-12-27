@@ -20,6 +20,10 @@ MVC mimarisi kullanarak bir forum projesi oluşturdum.
 
 ![](./src/assets/images/mvc.mp4)
 
+
+https://github.com/EyupSaltukB/MVC-Forum/assets/129687853/37bdf553-b754-4637-955c-aa90f60eb436
+
+
 # GIF
 
 ![](./src/assets/images/mvc.gif)
